@@ -1,0 +1,10 @@
+PROJECT_NAME           = "example demo code"
+PROJECT_NUMBER         = 1.3.37
+EXTRACT_ALL            = YES
+INPUT                  = ../src
+GENERATE_HTML          = NO
+GENERATE_LATEX         = NO
+GENERATE_XML           = YES
+XML_OUTPUT             = _build/doxyxml
+GENERATE_DOCBOOK       = NO
+CLASS_DIAGRAMS         = NO
